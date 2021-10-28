@@ -1,2 +1,5 @@
-# Hacktoberfest-21
-This repo is open accepting quality code submissions for Hacktoberfest-21 in any language!
+# Hacktoberfest - 2021 | Open Contribution
+
+**Thank you for investing your time in contributing to our project!**
+> • Any contribution you make will be reflected here after verification!  
+> • Only quality code submissions! (Any language is accepted)
